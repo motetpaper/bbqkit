@@ -49,6 +49,9 @@ updated: ${dt}
 kbdate: ${kbdateid}
 mermaid: false
 mathjax: false
+published: false
+category: meow
+tags: one,two,three
 ---
 
 # Summary
